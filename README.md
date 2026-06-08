@@ -182,3 +182,16 @@ model.predict(source=0, show=True, conf=0.5)
 * [LabelImg](https://github.com/heartexlabs/labelImg)
 
 ---
+## My Contribution
+
+As a member of the project team, I contributed to:
+
+- Researching healthcare applications of computer vision
+- Dataset planning and annotation discussions
+- Testing and evaluation of pill detection results
+- Documentation and project presentation
+- Feature planning for real-time medicine recognition
+
+### Outcome
+
+Successfully developed a YOLOv8-based pill detection system capable of identifying multiple medicine types.
